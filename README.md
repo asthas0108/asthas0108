@@ -39,7 +39,7 @@ I'm a Computer Science and Engineering student passionate about building impactf
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Astha Singh](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/astha-singh-001877294/)
+- LinkedIn: [Astha Singh](https://www.linkedin.com/in/astha-singh-001877294/)
 
 ---
 
