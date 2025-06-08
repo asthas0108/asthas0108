@@ -7,7 +7,6 @@ I'm a Computer Science and Engineering student passionate about building impactf
 ## 🚀 About Me
 
 - 🎯 Aspiring Software Developer | MERN Stack Enthusiast
-- 👩‍💻 Actively preparing for SDE internships
 - 💡 Love to solve problems using Data Structures and Algorithms
 
 ---
