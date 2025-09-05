@@ -15,8 +15,8 @@ Portfolio Link: [Astha.folio](https://my-portfolio-phi-smoky-76.vercel.app/)
 
 ## 💼 Experience
 
-# Frontend Developer Intern
-# Green Assist India ·July 2025 – Present
+### Frontend Developer Intern
+### Green Assist India ·July 2025 – Present
 
 - Implemented GitHub API integrations for code uploads and edits; decreased average upload time by 250ms through optimized data streaming and asynchronous processing, enabling faster developer workflows.
 
